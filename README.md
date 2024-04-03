@@ -11,7 +11,7 @@ INTALINK是一款旨在简化多表数据集成的工具，通过智能化的方
 
 ## 🛠️ 如何开始
 
-访问 [官方文档-v0.8](https://www.idataops.com.cn/h-col-110.html) 或查看 [安装教程-v0.8](链接地址) 来设置和运行INTALINK。
+访问 [官方文档](https://github.com/yt-data/INTALINK/blob/main/README.zh.md) 或查看 [安装教程-v0.8](链接地址) 来设置和运行INTALINK。
 
 ## 🤝 贡献
 
