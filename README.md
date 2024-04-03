@@ -11,11 +11,11 @@ INTALINK是一款旨在简化多表数据集成的工具，通过智能化的方
 
 ## 🛠️ 如何开始
 
-访问 [官方文档](https://www.idataops.com.cn/h-col-110.html) 或查看 [安装教程](链接地址) 来设置和运行INTALINK。
+访问 [官方文档-v0.8](https://www.idataops.com.cn/h-col-110.html) 或查看 [安装教程-v0.8](链接地址) 来设置和运行INTALINK。
 
 ## 🤝 贡献
 
-欢迎通过 [GitHub issues](https://github.com/yt-data/intalink/issues) 提交问题或贡献代码。如需帮助或想要参与讨论，请加入我们的 [微信](你的Discord链接) 社区。
+欢迎通过 [GitHub issues](https://github.com/yt-data/INTALINK/issues) 提交问题或贡献代码。如需帮助或想要参与讨论，请加入我们的 [微信-v0.8](你的Discord链接) 社区。
 
 ## 📄 许可
 
