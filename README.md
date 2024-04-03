@@ -1,52 +1,22 @@
-# INTALINK - 智能数据集成与关联分析平台
+# YT-DATA: 智能数据集成与关联分析平台
 
-INTALINK是一款旨在简化多表数据集成的工具，通过智能化的方式自动识别并构建数据表间的关联关系，提升数据应用效率和数据治理质量。
+Hi, 这里是 YT-DATA 👋
 
-## 🚀 核心特性
+我们是一群对数据处理和集成技术充满热情的专家。YT-DATA 致力于简化复杂的多表数据集成工作，帮助用户无需深入理解底层数据库逻辑就能实现智能数据关联。
 
-- **自动数据关联**：自动化地发现和构建数据表间的关系，简化数据集成过程。
-- **查询构建**：用户只需定义所需数据，INTALINK自动生成SQL查询语句。
-- **自助式数据探索**：允许用户探索和尝试不同数据组合，提高数据应用的自由度。
-- **数据治理工具**：支持数据管理人员执行数据治理任务，识别和解决数据孤岛问题。
+## YT-DATA 是什么？
 
-## 🛠️ 如何开始
+YT-DATA 是一个先进的数据智能建模平台，它能自动化地识别和构建数据表之间的关系。我们的平台支持多种数据源，包括但不限于关系型数据库和非结构化数据，使数据查询和集成变得简单快捷。
 
-访问 [官方文档](https://github.com/yt-data/INTALINK/blob/main/README.zh.md) 或查看 [安装教程-v0.8](链接地址) 来设置和运行INTALINK。
 
-## 🤝 贡献
+## 我们的使命
 
-欢迎通过 [GitHub issues](https://github.com/yt-data/INTALINK/issues) 提交问题或贡献代码。如需帮助或想要参与讨论，请加入我们的 [微信-v0.8](你的Discord链接) 社区。
+帮助企业和开发人员克服数据集成的挑战，解放数据的潜力，无论是满足业务的快速发展还是提升数据管理的效率，YT-DATA 都是您可信赖的伙伴。
 
-## 📄 许可
+## 社区和贡献
 
-INTALINK根据 [Apache License 2.0](LICENSE) 授权。
+我们欢迎所有热爱开源和数据技术的人加入我们的社区。无论是通过代码贡献、提出改进建议还是参与讨论，每一位贡献者的参与都极为宝贵。
 
-## 📧 联系我们
+_加入我们，一起塑造数据的未来！_
 
-有任何问题或建议，请通过以下方式联系我们：
-
-- 微信：YT18526434675
-- [产品官网](https://www.idataops.com.cn/h-col-110.html)
-
----
-
-<p align="center">
-  <a href="https://github.com/yt-data/intalink/stargazers">
-    <img src="https://img.shields.io/github/stars/yt-data/intalink.svg?style=social&label=Stars" alt="GitHub stars"/>
-  </a>
-  <a href="https://github.com/yt-data/intalink/network/members">
-    <img src="https://img.shields.io/github/forks/yt-data/intalink.svg?style=social&label=Forks" alt="GitHub forks"/>
-  </a>
-  <a href="https://github.com/yt-data/intalink/watchers">
-    <img src="https://img.shields.io/github/watchers/yt-data/intalink.svg?style=social&label=Watch" alt="GitHub watchers"/>
-  </a>
-  <a href="你的Discord链接">
-    <img src="https://img.shields.io/badge/Discord-Join%20intalink-blue.svg?style=social&logo=discord" alt="Join Discord"/>
-  </a>
-  <a href="你的LinkedIn链接">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20intalink-blue.svg?style=social&logo=linkedin" alt="LinkedIn Follow"/>
-  </a>
-  <a href="你的Stack Overflow链接">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Ask%20intalink-orange.svg?style=social&logo=stack-overflow" alt="Stack Overflow"/>
-  </a>
-</p>
+_更多详情和项目进展，请关注我们的 [GitHub 主页](https://github.com/yt-data)。_
