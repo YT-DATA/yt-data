@@ -15,7 +15,7 @@ INTALINK是一款旨在简化多表数据集成的工具，通过智能化的方
 
 ## 🤝 贡献
 
-欢迎通过 [GitHub issues](https://github.com/yt-data/intalink/issues) 提交问题或贡献代码。如需帮助或想要参与讨论，请加入我们的 [Discord](你的Discord链接) 社区。
+欢迎通过 [GitHub issues](https://github.com/yt-data/intalink/issues) 提交问题或贡献代码。如需帮助或想要参与讨论，请加入我们的 [微信](你的Discord链接) 社区。
 
 ## 📄 许可
 
