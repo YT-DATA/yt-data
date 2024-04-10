@@ -1,22 +1,21 @@
-# YT-DATA: 智能数据集成与关联分析平台
+# YT-DATA: Intelligent Data Integration and Associative Analysis Platform
 
-Hi, 这里是 YT-DATA 👋
+Hi there, this is YT-DATA 👋
 
-我们是一群对数据处理和集成技术充满热情的专家。YT-DATA 致力于简化复杂的多表数据集成工作，帮助用户无需深入理解底层数据库逻辑就能实现智能数据关联。
+We are a group of experts passionate about data processing and integration technologies. YT-DATA is dedicated to simplifying complex multi-table data integration tasks, helping users to intelligently associate data without needing to delve into the underlying database logic.
 
-## YT-DATA 是什么？
+## What is YT-DATA?
 
-YT-DATA 是一个先进的数据智能建模平台，它能自动化地识别和构建数据表之间的关系。我们的平台支持多种数据源，包括但不限于关系型数据库和非结构化数据，使数据查询和集成变得简单快捷。
+YT-DATA is an advanced intelligent data modeling platform that can automatically identify and build relationships between data tables. Our platform supports various data sources, including but not limited to relational databases and unstructured data, making data querying and integration simple and quick.
 
+## Our Mission
 
-## 我们的使命
+To help businesses and developers overcome the challenges of data integration, unleash the potential of data, whether it is to meet the rapid development of business or to enhance the efficiency of data management, YT-DATA is your reliable partner.
 
-帮助企业和开发人员克服数据集成的挑战，解放数据的潜力，无论是满足业务的快速发展还是提升数据管理的效率，YT-DATA 都是您可信赖的伙伴。
+## Community and Contribution
 
-## 社区和贡献
+We welcome everyone who loves open source and data technologies to join our community. Whether it's through code contribution, suggestions for improvement, or participating in discussions, the participation of every contributor is incredibly valuable.
 
-我们欢迎所有热爱开源和数据技术的人加入我们的社区。无论是通过代码贡献、提出改进建议还是参与讨论，每一位贡献者的参与都极为宝贵。
+_Join us and help shape the future of data!_
 
-_加入我们，一起塑造数据的未来！_
-
-_更多详情和项目进展，请关注我们的 [GitHub 主页](https://github.com/yt-data)。_
+_For more details and project updates, please follow our [GitHub page](https://github.com/yt-data)._
